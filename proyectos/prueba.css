@@ -1,0 +1,44 @@
+div {
+    background-color: gainsboro;
+    width: 400px;
+    box-shadow: 0 0 45px 0 #0007;
+    padding: 20px;
+    margin: 10px;
+    margin-top: 50px;
+    box-sizing: content-box;
+    display: inline-block;
+   
+
+
+}
+
+
+.imagen {
+    border-radius: 50%;
+    width: 100%;
+    
+}
+.titulo {
+    text-align: center;
+    margin: 0;
+    text-shadow: 0 0 52 red;
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+
+.subtitulo {
+    text-align: center;
+    letter-spacing: 2px;
+   
+
+}
+
+.contenido {
+    letter-spacing:2px;
+    padding: 10px;
+    text-shadow: 0 0 40 #f5f5;
+    margin-bottom: 110px;
+    padding-bottom: 0;
+
+}
+
